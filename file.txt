@@ -1,3 +1,5 @@
 Hi! I’m practicing git today!
 
 new text
+
+second new text 
